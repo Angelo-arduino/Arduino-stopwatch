@@ -26,6 +26,9 @@ LED indicators for system states, and a buzzer for audio feedback.
 ## code used
 [code](https://github.com/Angelo-arduino/Arduino-stopwatch/blob/main/STOPWATCH.ino)
 
+## system circuit
+[logic circuit](https://wokwi.com/projects/452666281192415233)
+
 ## 🔌 System Logic
 The stopwatch operates as a finite state machine:
 - **Idle** – waiting for start
