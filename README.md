@@ -45,7 +45,7 @@ real-time feedback to the user.
 👉 [Watch the demo here](https://youtube.com/shorts/KoMVbbF8hj8?si=M4SuPaJqtg2puyBv)
 
 ## 📸 Prototype
-![Stopwatch Prototype](https://github.com/Angelo-arduino/Arduino-stopwatch/blob/main/IMG_3549%5B1%5D.jpeg)
+[Stopwatch Prototype](https://github.com/Angelo-arduino/Arduino-stopwatch/blob/main/IMG_3549%5B1%5D.jpeg)
 
 ## 🚀 Future Improvements
 - Lap time functionality
