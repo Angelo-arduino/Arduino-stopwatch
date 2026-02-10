@@ -23,6 +23,8 @@ LED indicators for system states, and a buzzer for audio feedback.
 - Buzzer
 - Breadboard & Jumper Wires
 - Resistors
+## code used
+[code](https://github.com/Angelo-arduino/Arduino-stopwatch/blob/main/STOPWATCH.ino)
 
 ## 🔌 System Logic
 The stopwatch operates as a finite state machine:
